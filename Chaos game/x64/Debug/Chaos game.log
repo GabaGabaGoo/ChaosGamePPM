@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\repos\Chaos game\main.cpp(37,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\repos\Chaos game\main.cpp(177,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\repos\Chaos game\main.cpp(178,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\repos\Chaos game\main.cpp(191,34): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\repos\Chaos game\main.cpp(191,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\repos\Chaos game\main.cpp(191,92): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\repos\Chaos game\main.cpp(191,92): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Chaos game.vcxproj -> C:\repos\Chaos game\x64\Debug\Chaos game.exe
